@@ -1,2 +1,3 @@
 # github-example
-new repository for github demonstration
+THIS REPOSITORY IS FOR FINAL ASSIGNMENT.ALL FILES ARE UPLOADED HERE
+
